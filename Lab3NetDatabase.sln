@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsAppLab3", "WinformAppLab3\WinformsAppLab3.csproj", "{DB21FF32-7DE8-4A20-9A19-B0B9A66BC761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB21FF32-7DE8-4A20-9A19-B0B9A66BC761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB21FF32-7DE8-4A20-9A19-B0B9A66BC761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB21FF32-7DE8-4A20-9A19-B0B9A66BC761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB21FF32-7DE8-4A20-9A19-B0B9A66BC761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17525BEA-9EAA-4119-9956-3B0ACEB8E756}
+	EndGlobalSection
+EndGlobal
